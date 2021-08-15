@@ -27,4 +27,5 @@ In either case even though the model fits the epidemic curve for the 1st wave, i
 ## References
 
 [Storn and Price, 1997] Storn, R., & Price, K. (1997). Differential evolution–a simple and efficient heuristic for global optimization over continuous spaces. Journal of global optimization, 11(4), 341-359.
+
 [Billah et al., 2020] Billah, M. A., Miah, M. M., & Khan, M. N. (2020). Reproductive number of coronavirus: A systematic review and meta-analysis based on global level evidence. PloS one, 15(11), e0242128.
